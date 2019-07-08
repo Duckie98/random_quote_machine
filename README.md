@@ -1,6 +1,6 @@
 # This is my 'Random Quote Generator' Front-end project using Reactjs
 
-You could check out this project at this link: https://duckie98.github.io/random_quote_machine/
+You could check out this project at this link: https://viet-quocnguyen.github.io/random_quote_machine/
 
 ## Available Scripts
 
